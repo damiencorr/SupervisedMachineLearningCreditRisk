@@ -1,4 +1,4 @@
-# Cryptocurrencies
+# Supervised Machine Learning looking at Credit Risk
 ### CHALLENGE
 
 The goals of this challenge are to implement machine learning models, use resampling to attempt to address class imbalances and then evaluate the performance of machine learning models to assess credit risk for a sample data set. For details of the How To of this challenge please refer to the Appendix below.
